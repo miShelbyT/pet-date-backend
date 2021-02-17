@@ -1,24 +1,13 @@
-# README
+# Mod 3 Pairs Project with Demetrio Lima: 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pet Dates is pet date scheduler app that allows the user to add a new pet, peruse a list of current pet clients, and view, save, update and delete pet dates.
 
-Things you may want to cover:
+We created this app with the following:
 
-* Ruby version
+* Set up Javascript Front End and Ruby on Rails API
+* Implemented vanilla JS for fetches, event listeners and other DOM manipulation 
+* Handled serializers on Rails back end to access/manage data
+* Used vanilla CSS for all styling including overlays, modals, etc. 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## A big thanks to our Flatiron cohort-mates for sending us their pet information.

@@ -31,3 +31,4 @@ momo = Pet.create(name:"Momo", temper: "Crazy Psycho", age: 1, breed: "Calico", 
         latitude: rand(1..100)
     )
 end
+
